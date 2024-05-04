@@ -9,7 +9,7 @@
 }
 
 :root {
-    --green-color: #9dac17;
+    --green-color: hsl(66, 76%, 38%);
     --light-green-color: rgba(204, 212, 164, 1);
     --orange-color: orange;
     --light-orange-color: rgb(241, 192, 102);
